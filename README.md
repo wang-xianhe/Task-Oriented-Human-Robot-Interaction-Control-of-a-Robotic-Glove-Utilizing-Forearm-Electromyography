@@ -8,4 +8,4 @@ This capsule contains result data of the experiment：overall myoelectric contro
 
 
 
-Result data was stored in the branch named results. Two video demonstrations of the overall task-oriented assistive myoelectric control of the hand exoskeleton can be found at https://youtu.be/a86H2Qwtki4 and https://youtu.be/A-YBdTYs2HY.
+Result data was stored in the branch named results. Two video demonstrations of the overall task-oriented assistive myoelectric control of the hand exoskeleton can be found at https://youtu.be/a86H2Qwtki4 and https://youtu.be/A-YBdTYs2HY. The python program for the grasping mode recognition was stored inthe branch named as EMG.
